@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="#affiliations">Affiliations</a>. UNIST. Human-centered AI. Graph Reasoning. Etc.
+# subtitle: <a href="#affiliations">Affiliations</a>. UNIST. Human-centered AI. Graph Reasoning. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>UNIST</p>
     <p>Ulsan, South Korea</p>
@@ -15,16 +15,7 @@ profile:
 
 # selected_papers: true
 social: true
-
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
-latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+news: false
 ---
 
 Hello! I'm **Sumin Park**,  

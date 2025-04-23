@@ -1,34 +1,71 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="#affiliations">Affiliations</a>. UNIST. Human-centered AI. Graph Reasoning. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>UNIST</p>
+    <p>Ulsan, South Korea</p>
+    <p><a href="mailto:sksmstnalss@gmail.com">sksmstnalss@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm **Sumin Park**,  
+a senior undergraduate student in the Department of Industrial Engineering at **UNIST**,  
+expected to graduate in **August 2025**.  
+My research interests lie in **Trustworthy AI**, **Graph Neural Networks (GNNs)**, **Fairness**, and **Human-Centered AI**.  
+I am currently working as an undergraduate research intern in the Human-Centered AI Lab.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+---
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## 🧠 Research Interests
+- Graph Neural Networks (GNNs)
+- Fairness-aware Learning & Bias Mitigation
+- Causal Inference & Counterfactual Reasoning
+- Trustworthy AI
+- Graph-based Retrieval & Recommendation Systems
+
+---
+
+## 🏫 Affiliations <a name="affiliations"></a>
+- Undergraduate Research Intern, **Human-Centered AI Lab @ UNIST**  
+- Former ML Engineer Intern, **Ten Fingers Inc. (DatePop)**  
+- Winner, Digital Healthcare Hackathon (AI support tool for schizophrenia patients)
+
+---
+
+<!-- ## 🛠 Selected Projects
+- **Hawkeye Project**: Deep learning-based system for predicting store popularity and recommending partnerships  
+- **CTP Fairness Analysis**: Investigating gender and regional biases in Career Trajectory Prediction models  
+- **Graph RAG System**: Retrieval-Augmented Generation with a knowledge graph in the financial domain   -->
+
+> For more details, visit the [Projects](/projects/) page.
+
+---
+
+## 📌 Additional Information
+- 🎓 B.S. in Industrial Engineering, Minor in Design – UNIST (2021–2025.08 expected)  
+- 🗣 Fluent in Korean and English  
+- ✏️ Planning to launch a blog on AI, GNNs, and Trustworthy AI  
+
+---
+
+📫 Feel free to reach out via email or through my social media links below.  
+Thanks for visiting! 💜

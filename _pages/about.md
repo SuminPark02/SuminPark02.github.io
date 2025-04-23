@@ -29,16 +29,16 @@ My research interests lie in **Trustworthy AI**, **Graph Neural Networks (GNNs)*
 - **CTP Fairness Analysis**: Investigating gender and regional biases in Career Trajectory Prediction models  
 - **Graph RAG System**: Retrieval-Augmented Generation with a knowledge graph in the financial domain   -->
 
-> For more details, visit the [Projects](/projects/) page.
+<!-- > For more details, visit the [Projects](/projects/) page. -->
 
----
+<!-- ---
 
 ## 📌 Additional Information
 - 🎓 B.S. in Industrial Engineering, Minor in Design – UNIST (2021–2025.08 expected)  
 - 🗣 Fluent in Korean and English  
 - ✏️ Planning to launch a blog on AI, GNNs, and Trustworthy AI  
 
----
+--- -->
 
 📫 Feel free to reach out via email or through my social media links below.  
 Thanks for visiting! 💜

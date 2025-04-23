@@ -31,25 +31,7 @@ Hello! I'm **Sumin Park**,
 a senior undergraduate student in the Department of Industrial Engineering at **UNIST**,  
 expected to graduate in **August 2025**.  
 My research interests lie in **Trustworthy AI**, **Graph Neural Networks (GNNs)**, **Fairness**, and **Human-Centered AI**.  
-I am currently working as an undergraduate research intern in the Human-Centered AI Lab.
 
----
-
-## 🧠 Research Interests
-- Graph Neural Networks (GNNs)
-- Fairness-aware Learning & Bias Mitigation
-- Causal Inference & Counterfactual Reasoning
-- Trustworthy AI
-- Graph-based Retrieval & Recommendation Systems
-
----
-
-## 🏫 Affiliations <a name="affiliations"></a>
-- Undergraduate Research Intern, **Human-Centered AI Lab @ UNIST**  
-- Former ML Engineer Intern, **Ten Fingers Inc. (DatePop)**  
-- Winner, Digital Healthcare Hackathon (AI support tool for schizophrenia patients)
-
----
 
 <!-- ## 🛠 Selected Projects
 - **Hawkeye Project**: Deep learning-based system for predicting store popularity and recommending partnerships  

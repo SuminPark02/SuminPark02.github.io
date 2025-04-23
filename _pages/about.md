@@ -21,7 +21,7 @@ news: false
 Hello! I'm **Sumin Park**,  
 a senior undergraduate student in the Department of Industrial Engineering at **UNIST**,  
 expected to graduate in **August 2025**.  
-My research interests lie in **Trustworthy AI**, **Graph Neural Networks (GNNs)**, **Fairness**, and **Human-Centered AI**.  
+My research interests lie in **Trustworthy AI**, **Graph Neural Networks (GNNs)**, and **Human-Centered AI**.  
 
 
 <!-- ## 🛠 Selected Projects

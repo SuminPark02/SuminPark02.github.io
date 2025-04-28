@@ -38,4 +38,4 @@ I explore various ML and DL approaches, particularly in trustworthy systems, GNN
 
 --- -->
 
-📫 Feel free to reach out via email or through my social media links below. Thanks for visiting! 💜
+<!-- 📫 Feel free to reach out via email or through my social media links below. Thanks for visiting! 💜 -->

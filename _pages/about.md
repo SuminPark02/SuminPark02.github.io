@@ -19,7 +19,7 @@ news: false
 ---
 
 Hello! I'm **Sumin Park**, a senior undergraduate student in the Department of Industrial Engineering at **UNIST**, expected to graduate in **August 2025**.  
-I explore various ML and DL approaches, particularly in trustworthy systems, GNNs, and human-centered AI.
+I explore various ML and DL approaches, particularly in trustworthy systems, GNNs.
 
 
 <!-- ## 🛠 Selected Projects

@@ -9,9 +9,9 @@ layout: default
         {% if page.cv_pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
+              href="{{ page.SuminPark_CV (2).pdf }}"
             {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+              href="{{ page.SuminPark_CV (2).pdf| prepend: 'assets/pdf/' | relative_url }}"
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"
@@ -57,12 +57,12 @@ layout: default
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
-        {% if page.cv_pdf %}
+        {% if page.SuminPark_CV (2).pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
+              href="{{ page.SuminPark_CV (2).pdf}}"
             {% else %}
-              href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+              href="{{ page.SuminPark_CV (2).pdf| prepend: 'assets/pdf/' | relative_url }}"
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"

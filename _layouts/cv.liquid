@@ -9,9 +9,9 @@ layout: default
         {% if page.cv_pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
-              href="{{ page.SuminPark_CV (2).pdf }}"
+              href="{{ page.cv.pdf }}"
             {% else %}
-              href="{{ page.SuminPark_CV (2).pdf| prepend: 'assets/pdf/' | relative_url }}"
+              href="{{ page.cv.pdf| prepend: 'assets/pdf/' | relative_url }}"
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"
@@ -60,9 +60,9 @@ layout: default
         {% if page.SuminPark_CV (2).pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
-              href="{{ page.SuminPark_CV (2).pdf}}"
+              href="{{ page.cv.pdf}}"
             {% else %}
-              href="{{ page.SuminPark_CV (2).pdf| prepend: 'assets/pdf/' | relative_url }}"
+              href="{{ page.cv.pdf| prepend: 'assets/pdf/' | relative_url }}"
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"

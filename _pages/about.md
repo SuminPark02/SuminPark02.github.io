@@ -19,7 +19,7 @@ news: false
 ---
 
 Hello! I'm **Sumin Park**, a senior undergraduate student in the Department of Industrial Engineering at **UNIST**, expected to graduate in **August 2025**.  
-I explore trustworthy AI, particularly GNN and LLM.
+My work focuses on understanding and improving the reliability and responsible behavior of Graph Neural Networks and LLMs in complex decision-making systems.
 
 
 <!-- ## 🛠 Selected Projects

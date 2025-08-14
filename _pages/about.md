@@ -18,8 +18,8 @@ social: true
 news: false
 ---
 
-Hello! I'm **Sumin Park**, a senior undergraduate student in the Department of Industrial Engineering at **UNIST**, expected to graduate in **August 2025**.  
-My work focuses on understanding and improving the reliability and responsible behavior of Graph Neural Networks and LLMs in complex decision-making systems.
+Hi, I’m Sumin Park 👋
+I’m a master’s student at the Data Intelligence Lab, UNIST AI Graduate School. I explore how to make Graph Neural Networks and Large Language Models more trustworthy for real-world decision-making.
 
 
 <!-- ## 🛠 Selected Projects
